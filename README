@@ -1,0 +1,15 @@
+url_obfuscator
+Obfuscate a url in different ways
+
+Usage
+Run:
+	url_obsfucator <url>
+
+Installation
+Run:
+	./install
+
+Notes
+This probably won't work for cloudflare, fastly and other websites that use
+similar services.
+Some addresses will resolve to a different name.
