@@ -10,6 +10,6 @@ Run:
 	./install
 
 Notes
-This probably won't work for cloudflare, fastly and other websites that use
+This probably won't work for websites that use cloudflare, fastly and other
 similar services.
 Some addresses will resolve to a different name.
