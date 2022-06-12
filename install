@@ -8,6 +8,6 @@ fi
 
 ln -sv $(realpath url_obfuscator.py)  "${INSTALL_PATH}/url_obfuscator"
 
-if [ -f "${INSTALL_PATH}/saucenao_search" ]; then
+if [ -f "${INSTALL_PATH}/url_obfuscator" ]; then
 	chmod -v 755 "${INSTALL_PATH}/url_obfuscator"
 fi
